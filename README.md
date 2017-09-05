@@ -1,0 +1,2 @@
+# mabeslirik
+javascript for blogspot
